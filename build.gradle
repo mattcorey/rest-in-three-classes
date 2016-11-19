@@ -29,7 +29,6 @@ dependencies {
     compile('org.springframework.boot:spring-boot-devtools')
     compile('org.springframework.boot:spring-boot-starter-data-jpa')
     compile('org.springframework.boot:spring-boot-starter-data-rest')
-    compile('com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.8.3')
     compile('com.h2database:h2')
 
     testCompile('org.springframework.boot:spring-boot-starter-test')
